@@ -5,6 +5,6 @@
 
 ### Create an npm project with command "npm init"
 ### Install package superheroes with command "npm install supervillains"
-### Call the supervillains pacakge from index.js
+### Call the supervillains package from index.js and listOfVillains.js
 ### node index.js # to create a superhero name
 ### node listOfVillains.js # to show a list of villains
