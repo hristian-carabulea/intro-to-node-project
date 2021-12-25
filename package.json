@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/hristian-carabulea/intro-to-node-project#readme",
   "dependencies": {
+    "superheroes": "^3.0.0",
     "supervillains": "^3.0.0"
   }
 }
