@@ -7,4 +7,4 @@
 ### Install package superheroes with command "npm install supervillains"
 ### Call the supervillains pacakge from index.js
 ### node index.js # to create a superhero name
-##
+### node listOfVillains.js # to show a list of villains
